@@ -58,6 +58,7 @@
 - Steam: [`WesterSushi`](https://steamcommunity.com/profiles/76561199042343126)
 - Discord: `Sushi-Chan#3839`
 - Github: `WesterSushi`
+- 个人网页 [`前往`](https://www.sushinya.me/)
 
 ---
 
