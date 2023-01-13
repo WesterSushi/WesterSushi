@@ -75,4 +75,4 @@
 
 **如果你喜欢我的话，可以给我的社交帐号留下关注嘛 ╰(*°▽°*)╯**
 
-**欢迎前往我的[Repo页面](https://github.com/WesterSushi?tab=repositories)查看我的项目！
+**欢迎前往我的[Repo页面](https://github.com/WesterSushi?tab=repositories)查看我的项目！**
