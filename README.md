@@ -1,6 +1,8 @@
 # 你好 👋
 #### 筱夕的自我介绍
-#### 更新时间: 2023/01/14
+#### 更新时间: 2023/01/23
+
+#### [状态 Dialog](https://github.com/WesterSushi/WesterSushi/blob/Dialog/LASTEST.md)
 
 ---
 
