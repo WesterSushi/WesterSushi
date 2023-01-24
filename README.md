@@ -2,7 +2,7 @@
 #### 筱夕的自我介绍
 #### 更新时间: 2023/01/23
 
-#### [状态 Dialog](https://github.com/WesterSushi/WesterSushi/blob/Dialog/LASTEST.md)
+#### [状态 Dialog](https://github.com/WesterSushi/WesterSushi/blob/main/Dialog/LASTEST.md)
 
 ---
 
