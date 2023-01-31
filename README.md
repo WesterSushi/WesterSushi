@@ -40,7 +40,7 @@
 >>
 >> 好友代码：`253-961-044`
 >>
->> Potential: 11.35
+>> Potential: 11.45
 
 > Phigros
 >> Ranking Score: 15.35
@@ -48,9 +48,9 @@
 >> 课题模式：蓝48
 
 > Rotaeno
->> Rating: 12.305
+>> Rating: 13.004
 >>
->> Level: 45
+>> Level: 46
 
 > osu!
 >> ID: ShanNei_Miao
